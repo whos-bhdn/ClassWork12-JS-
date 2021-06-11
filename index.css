@@ -1,0 +1,14 @@
+.input{
+    font-size: 40px;
+    line-height: 1;
+    border-radius: 8px;
+
+}
+
+input.input__danger{
+    outline: 2px solid rgb(223, 53, 53);
+}
+input.input__focused{
+    outline: 2pxx solid rgb(228, 154, 16)violet;
+    box-shadow: yellowgreen;
+}
